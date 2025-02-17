@@ -1,6 +1,8 @@
-# 💫 About Me:
+# 💫 About Me[ENG]:
 👋 Hey there! I'm NDK<br><br>🔭 What I'm working on<br>Currently focusing on my studies <br>and working on educational<br>projects to sharpen my skills.<br>🏗 Looking for...<br>An internship in Machine Learning or System Analysis. <br>I enjoy working with data, uncovering insights,and improving decision-making processes.<br>🤝 Open to feedback!<br>I appreciate any advice or constructive criticism on my projects—new perspectives help me grow!<br>🌱 Currently learning:<br>📊 ML, Data Science<br>🐍 Python<br>🛢 SQL, PostgreSQL<br>⚡️ Fun fact:<br>The more coffee I drink, the more positive I get! 🚀
 
+💫 **Обо мне [RU]:**  
+👋 Привет! Я NDK<br><br>🔭 Чем занимаюсь<br>Сейчас сосредоточен на учебе и работаю над студенческими проектами, чтобы прокачивать свои навыки.<br>🏗 В поиске...<br>Ищу стажировку в Machine Learning или системной аналитике. Люблю работать с данными, находить в них закономерности и создавать что-то классное.<br>🤝 Открыт к фидбэку!<br>Буду рад любым советам и конструктивной критике по моим проектам — взгляд со стороны всегда помогает расти!<br>🌱 Сейчас изучаю:<br>📊 ML, Data Science<br>🐍 Python<br>🛢 SQL, PostgreSQL<br>⚡️ Забавный факт:<br>Чем больше кофе я пью, тем больше позитива в этот день! 🚀
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zqw3232@mail.ru) 
